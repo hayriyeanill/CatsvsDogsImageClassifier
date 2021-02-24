@@ -1,2 +1,2 @@
 # image_classification
-Image Classification Using CNN with Tensorflow
+Cat or Dog Image Classification Using CNN with Tensorflow
